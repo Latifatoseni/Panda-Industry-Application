@@ -1,4 +1,4 @@
-# Pandas Hands-on: E-Commerce, Healthcare, Banking, and Energy Data Analysis
+# Pandas Industry Application: E-Commerce, Healthcare, Banking, and Energy Data Analysis
 
 ## Introduction
 Data manipulation and cleaning are critical foundational steps in data science and analytics. Raw enterprise datasets frequently contain structural anomalies, missing entries, malformed text symbols, and duplicate rows. Utilizing **Pandas** and **NumPy**, this project demonstrates robust data exploration, advanced data cleaning pipelines, and conditional feature engineering across four distinct real-world industry domains: E-Commerce, Healthcare, Banking, and Energy Utilities.
